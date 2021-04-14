@@ -10,5 +10,5 @@ You have 2 endpoints:
 - /say - takes a word and replaces the word sent from / echo with it for this client.
 
 ### Example
-GET /echo?w=hello - returns the word *hello* once a second;
-GET /say?w=world - returns the word *world* once a second.
+- GET /echo?w=hello - returns the word *hello* once a second;
+- GET /say?w=world - returns the word *world* once a second.
